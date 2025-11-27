@@ -1,4 +1,4 @@
-// Classe com responsabilidade única
+// Classe com responsabilidade única:
 class Funcionario {
     constructor(nome, salario) {
       this.nome = nome;
