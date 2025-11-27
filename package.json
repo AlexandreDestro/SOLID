@@ -1,0 +1,14 @@
+{
+    "name": "prova03",
+    "version": "1.0.0",
+    "description": "Exemplos de Design Patterns em JavaScript",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start01": "node prova03/grasp.js",
+      "start02": "node prova03/solid_OCP.js",
+      "start03": "node prova03/solid_SRP.js"
+    },
+    "author": "AlexandreDestro",
+    "license": "MIT"
+  }
